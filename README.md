@@ -9,7 +9,7 @@
 
 | 🐍 Язык | 📚 База | 🎓 Дальнейшее обучение | 🚀 Проекты |
 | :--- | :--- | :--- | :--- |
-| **Python** | [base-python](https://github.com/SaziCore/base-python.git) | **В процессе** | Планируются |
+| **Python** | [base-python](https://github.com/SaziCore/base-python.git) | **В процессе** | - |
 
 
 
