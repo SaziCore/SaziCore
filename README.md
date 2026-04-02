@@ -4,11 +4,16 @@
 
 ---
 
-### 🏗️ Мой Python Центр (30-дневный челлендж)
+### 🏗️ Мой Python Центр
 
 
-| 🐍 Язык | 📚 База | 🧪 Библиотеки | 🚀 Проекты |
+| 🐍 Язык | 📚 База | 🎓 Дальнейшее обучение | 🚀 Проекты |
 | :--- | :--- | :--- | :--- |
-| **Python 3.x** | **7 / 30 дней** | **В планах** | **В процессе** |
-| [Код тут 🔗](https://github.com) | [Весь план 📋](https://github.com) | `datetime`, `json` | *Console Apps* |
+| **Python** | [base-python](https://github.com/SaziCore/base-python.git) | **В процессе** | Планируются |
+
+---
+
+### 📫 Связь со мной:
+[![Telegram](https://shields.io)](https://t.me/@SaziXP) 
+
 
