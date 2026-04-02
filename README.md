@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Привет, я SaziCore! 🇧🇾
 
-<!--
-**SaziCore/SaziCore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Создаю что-то новое каждый день. Моя цель — 30 дней чистого кода на Python." 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏗️ Мой Python Центр (30-дневный челлендж)
+
+
+| 🐍 Язык | 📚 База | 🧪 Библиотеки | 🚀 Проекты |
+| :--- | :--- | :--- | :--- |
+| **Python 3.x** | **7 / 30 дней** | **В планах** | **В процессе** |
+| [Код тут 🔗](https://github.com) | [Весь план 📋](https://github.com) | `datetime`, `json` | *Console Apps* |
+
