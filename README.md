@@ -11,9 +11,5 @@
 | :--- | :--- | :--- | :--- |
 | **Python** | [base-python](https://github.com/SaziCore/base-python.git) | **В процессе** | Планируются |
 
----
-
-### 📫 Связь со мной:
-[![Telegram](https://shields.io)](https://t.me/@SaziXP) 
 
 
